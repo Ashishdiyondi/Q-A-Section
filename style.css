@@ -36,7 +36,8 @@ button {
   /* max-width: 7200px; */
 }
 .question p {
-  color: yellowgreen;
+  /* color: yellowgreen; */
+  color: red;
   font-weight: bolder;
   display: flex;
   justify-content: space-between;
